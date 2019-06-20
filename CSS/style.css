@@ -125,7 +125,7 @@ html, body{
 
 }
 
-@media screen and (min-width: 427px) and (max-width: 1024px) {
+@media screen and (min-width: 426px) and (max-width: 1024px) {
     .boxOne, .boxTwo{
         width: 100%
 
